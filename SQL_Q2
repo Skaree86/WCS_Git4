@@ -1,0 +1,5 @@
+INSERT INTO movie VALUES (NULL,'film1','https://imageshack.com/i/po6h8Sufp','prout');
+INSERT INTO movie (name,poster,comment) VALUES ('film12','https://imageshack.com/i/po6h8Sufp','prout');
+INSERT INTO movie VALUES 
+(NULL,'a','https://imageshack.com/i/po6h8Sufp','aa'),(NULL,'b','https://imageshack.com/i/po6h8Sufp','bb'),(NULL,'c','https://imageshack.com/i/po6h8Sufp','cc');
+INSERT INTO movie (name) VALUES ('film1');

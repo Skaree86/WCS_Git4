@@ -1,0 +1,3 @@
+UPDATE movie SET name="pouet" WHERE id='5';
+UPDATE movie SET name="pouet", poster='https://imageshack.com/i/po6h8Sufp' WHERE id='8';
+UPDATE movie SET comment="proutt" WHERE id='10';
